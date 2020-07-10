@@ -1,7 +1,7 @@
 # Site setings
-name: 'Horace'
-description: 'Horace is a simple Jekyll theme for writers and bloggers. Explore it yourself.'
-meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
+name: 'Bobby Hamilton's Blog'
+description: 'All things product, marketing, design and software. From the mind of Bobby Hamilton'
+meta_description: 'Bobby Hamilton, product manager, Toronto, software'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 
@@ -27,15 +27,15 @@ contact_page_description: "Horace theme comes with a contact form built-in. You 
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
-twitter: 'username'
+twitter: 'BobHami'
 facebook: 'username'
-github: 'username'
+github: 'bobhami'
 codepen: 'username'
-dribbble: 'username'
-medium: '@username'
+[comment]: <> (dribbble: 'username')
+medium: '@b0bhamilton'
 instagram: 'username'
-pinterest: 'username'
-linkedin: 'username'
+[comment]: <> (pinterest: 'username')
+linkedin: 'b0bhamilton'
 producthunt: '@username'
 
 # Navigation

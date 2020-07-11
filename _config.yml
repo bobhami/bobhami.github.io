@@ -4,20 +4,20 @@ description: 'All things product, marketing, design and software. From the mind 
 meta_description: 'Bobby Hamilton, product manager, Toronto, software'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 
+baseurl:
 production_url: https://horace.netlify.com/
 disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 cover_image: bc_1.jpg
 # Add your GA Tracking Id
-ga_analytics: 
+ga_analytics:
 
 
 # Author
 author:
   name: 'Bobby Hamilton'
   image: 'authorimage.jpg'
-  greetings: 'Hi there!'
+  greetings: 'Hi there!🍉'
   description: "My name is Bobby Hamilton. I'm a product manager based in Toronto, Canada."
   bio: 'Bobby is a designer, software engineer, product manager and photographer.'
 

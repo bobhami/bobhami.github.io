@@ -17,7 +17,7 @@ ga_analytics:
 author:
   name: 'Bobby Hamilton'
   image: 'authorimage.jpg'
-  greetings: 'Hi there!🍉'
+  greetings: 'Hi there!'
   description: "My name is Bobby Hamilton. I'm a product manager based in Toronto, Canada."
   bio: 'Bobby is a designer, software engineer, product manager and photographer.'
 
@@ -28,11 +28,11 @@ thankyou_page_description: "Your message has been successfully sent. We will con
 
 # Social links
 twitter: 'BobHami'
-facebook: 'username'
+facebook:
 github: 'bobhami'
-codepen: 'username'
+codepen: 'bobhami'
 medium: '@b0bhamilton'
-instagram: 'username'
+instagram: 
 linkedin: 'b0bhamilton'
 producthunt: '@username'
 

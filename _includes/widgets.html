@@ -53,7 +53,7 @@ endcapture %} {% assign sortedTags = site_tags | split:',' | sort %}
     <div class="inner">
         <h2 class="widget-title">Subscribe to {{ site.name }}</h2>
         <p>Get the latest and greatest from {{ site.name }} delivered straight to your inbox every week.</p>
-        <!-- Begin MailChimp Signup Form -->
+        <!-- Begin MailChimp Signup Form -
         <div id="mc_embed_signup">
             <form action="{{ site.mailchimp_url }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
                 class="validate gh-subscribe-form" target="_blank" novalidate>
@@ -62,6 +62,16 @@ endcapture %} {% assign sortedTags = site_tags | split:',' | sort %}
                     placeholder="Your email address">
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
             </form>
+        </div>-->
+        <!-- Begin Sendfox signup form -->
+        <div id="mc_embed_signup">
+          <form method="post" action="https://sendfox.com/form/m7qyd1/19edvx" class="sendfox-form" id="19edvx" data-async="true">
+            <p><input type="email" placeholder="Email" name="email" required /></p>
+            <!-- no botz please -->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="a_password" tabindex="-1" value="" autocomplete="off" /></div>
+            <p><button type="submit">Subscribe</button></p>
+          </form>
+          <script src="https://sendfox.com/js/form.js"></script>
         </div>
     </div>
 </section>

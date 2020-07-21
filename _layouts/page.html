@@ -15,7 +15,7 @@ layout: default
                 {{content}}
             </div>
         </article>
-        {% if site.mailchimp_url %}
+        {% if site.mailchimp_url and page.title!="Thanks for Subscribing!"%}
         {% include newsletter-box.html %}
         {% endif %}
     </main>

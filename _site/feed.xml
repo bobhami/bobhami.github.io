@@ -5,9 +5,85 @@
     <description>All things product, marketing, design and software. From the mind of Bobby Hamilton</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Jul 2020 17:46:37 -0400</pubDate>
-    <lastBuildDate>Tue, 21 Jul 2020 17:46:37 -0400</lastBuildDate>
+    <pubDate>Thu, 23 Jul 2020 00:59:26 -0400</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2020 00:59:26 -0400</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>Book Review: Anything You Want by Derek Sivers</title>
+        <description>&lt;p&gt;&lt;strong&gt;Anything you Want&lt;/strong&gt; is a pint-sized book… like, really small… The whole thing takes about an hour to read and it’s one of the best hours I’ve ever spent.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;40-lessons-for-a-new-kind-of-entrepreneur&quot;&gt;40 lessons for a new kind of entrepreneur&lt;/h2&gt;
+
+&lt;p&gt;I first heard of Derek through his &lt;strong&gt;excellent&lt;/strong&gt; interview on the &lt;a href=&quot;https://tim.blog/2015/12/14/derek-sivers-on-developing-confidence-finding-happiness-and-saying-no-to-millions/&quot;&gt;Tim Ferriss Show&lt;/a&gt; podcast.&lt;/p&gt;
+
+&lt;p&gt;Originally a professional musician and circus clown, Derek Sivers, created CDBaby in 1998, became the largest seller of
+independent music online, with $100 million in sales for 150,000 musicians. In 2008, Derek sold CDBaby for $22 million.&lt;/p&gt;
+
+&lt;p&gt;The book teaches 40 lessons, showcasing a counterintuitive approach to business and life — not chasing growth all the time and trying to build something that you enjoy doing. While the book is entrepreneur focused - the lessons are applicable to people in all walks of life.&lt;/p&gt;
+
+&lt;p&gt;Take, for example, his approach to busyness and taking on too much. Derek uses a simple decision making tactic whenever he’s presented with a new opportunity:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Either “Hell yeah!” or “no””
+&lt;cite&gt;- Derek Sivers -&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s the easiest way to stop over-committing and feeling spread too thin.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-most-successful-e-mail-i-ever-wrote&quot;&gt;The most successful e-mail I ever wrote&lt;/h2&gt;
+
+&lt;p&gt;In my favourite lesson from the book Derek recounts an email he wrote that automatically gets sent to customers after they make a purchase at CDBaby. The email is so good, I’ve included it in it’s entirety:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Your CD has been gently taken from our CD Baby shelves
+with sterilized contamination-free gloves and places onto a
+satin pillow.
+
+A team of 50 employees inspected your CD and polished it
+to make sure it was in the best possible condition before mailing.
+
+Our packaging specialist from Japan lit a candle and a hush fell
+over the crowd as he put your CD into the finest gold-lined
+box that money can buy.
+
+We all had a wonderful celebration afterwards and the whole
+party marched down the street to the post office where the entire
+town of Portland waved &quot;Bon Voyage!&quot; to your package,
+on it's way to you, in our private CD Baby jet on this day,
+Friday June 6th.
+
+I hope you had a wonderful time shopping at CD Baby. We sure did.
+Your picture is on our wall as &quot;Customer of the Year.&quot;
+We're all exhausted but can't wait for you to come
+back to CDBABY.COM!!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;It’s a funny little email Derek whipped up in an evening, but the results were amazing. Customers would often reply back. To an &lt;strong&gt;automated email!&lt;/strong&gt; It got shared on blogs. This email went viral before ‘going viral’ was a thing.&lt;/p&gt;
+
+&lt;p&gt;The lesson is that, it’s often the tiny details that really get people talking about you. The total time to write that email was microscopic compared to the huge dividends it paid.&lt;/p&gt;
+
+&lt;p&gt;When customers received that email, it showed them there was real (and funny!) people working at CDBaby. The success of that email shows that in business, you don’t need to follow a stodgy playbook. You can operate your business in a way that makes your customers happier, makes the employees happier and it doesn’t take much effort - just a different approach.&lt;/p&gt;
+
+&lt;p&gt;Definitely recommend! 👍&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Never forget why you’re doing what you’re doing. Are you helping people? Are they happy? Are you profitable? Isn’t that enough?”
+&lt;cite&gt;- Derek Sivers -&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Check out Derek Sivers’ &lt;a href=&quot;https://sivers.org&quot;&gt;site&lt;/a&gt; to reach out to the author and to read his blog.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Jul 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/book-review-anything-you-want</link>
+        <guid isPermaLink="true">http://localhost:4000/book-review-anything-you-want</guid>
+        
+        <category>Book Review</category>
+        
+        
+      </item>
     
       <item>
         <title>Installing Multiple Versions of Node.js Using NVM</title>
@@ -423,33 +499,6 @@ Forum spamming. Usually advertised as some variant of “email processing”, th
         <guid isPermaLink="true">http://localhost:4000/advanced-markdown-tips</guid>
         
         <category>Jekyll</category>
-        
-        <category>Tips</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>A Week With the Apple Watch</title>
-        <description>&lt;p&gt;The &lt;strong&gt;Apple Watch&lt;/strong&gt; is a smartwatch developed by Apple Inc. It incorporates fitness tracking and health-oriented capabilities as well as integration with iOS and other Apple products and services. The device is available in four variants: Apple Watch Sport, Apple Watch, Apple Watch Hermès, and Apple Watch Edition. The Watch is distinguished by different combinations of cases and first or third party interchangeable bands. Apple Watch relies on a wirelessly connected iPhone to perform many of its default functions such as calling and texting. It is compatible with the iPhone 5 or later models running iOS 8.2 or later, through the use of Bluetooth or Wi-Fi.&lt;/p&gt;
-
-&lt;p&gt;Announced by Tim Cook on September 9, 2014, the device was available for pre-order on April 10 and began shipping on April 24, 2015. The Apple Watch quickly became the best-selling wearable device, with the shipment of 4.2 million smartwatches in the second quarter of 2015, according to analyst firm Canalys.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“You can only do so many things great, and you should cast aside everything else.” ― Tim Cook&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Rumors surrounded an Apple-developed wearable back as far as 2011, which conceptualized the device as a variation of the iPod that would curve around the user’s wrist, and feature Siri integration. On February 10, 2013, both The New York Times and The Wall Street Journal reported that Apple was beginning to develop an iOS-based smartwatch with a curved display. On February 12, 2013, Bloomberg reported that Apple’s smartwatch project was “beyond the experimentation phase in its development”, and had a team of at least 100 designers were working on the project. Further reports in March 2013 indicated that Apple planned to release the device by the end of the year. In July 2013, Financial Times reported that Apple had begun hiring more employees to work on the smartwatch, and that it was targeting a possible retail release in late 2014.&lt;/p&gt;
-
-&lt;h2 id=&quot;unveiling--release&quot;&gt;Unveiling &amp;amp; Release&lt;/h2&gt;
-
-&lt;p&gt;In April 2014, Apple CEO Tim Cook told The Wall Street Journal that the company was planning to launch new product categories that year, but did not reveal any specifics. In June 2014, Reuters reported that production was expected to begin in July for a release in October.&lt;/p&gt;
-
-&lt;p&gt;Apple Watch was first unveiled after a classic and ever infamous “We do have ‘one more thing’…” slide, which heard enormous applause, on September 9, 2014 during a press event which also saw the introduction of the iPhone 6. After the reveal video, the auditorium erupted with applause while Tim Cook rolled back his sleeve, revealing an Apple Watch on his wrist. Speaking about the device, Apple CEO Tim Cook explained that Apple Watch was “a new, intimate way to communicate from your wrist, and a comprehensive health and fitness device.”&lt;/p&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/a-week-with-the-apple-watch</link>
-        <guid isPermaLink="true">http://localhost:4000/a-week-with-the-apple-watch</guid>
         
         <category>Tips</category>
         

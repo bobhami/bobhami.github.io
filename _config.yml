@@ -5,8 +5,8 @@ meta_description: 'Bobby Hamilton, product manager, Toronto, software'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl:
-production_url: https://horace.netlify.com/
-disqus: 'justgoodthemes'
+production_url: http://bobbyhamilton.com/
+disqus: 'bobbyhamilton'
 mailchimp_url: ''
 cover_image: bc_1.jpg
 # Add your GA Tracking Id

@@ -2,7 +2,7 @@
 name: 'Bobby Hamilton'
 description: 'All things product, marketing, design and software. From the mind of Bobby Hamilton'
 meta_description: 'Bobby Hamilton, product manager, Toronto, software'
-logo: 'assets/images/logo.png'
+logo: 'assets/images/bobby_logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl:
 production_url: http://bobbyhamilton.com/
